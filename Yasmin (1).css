@@ -1,6 +1,18 @@
 body { 
     background-color: pink;
     text-align: center;
-
-
 }
+
+h1 {
+    color: dark red;
+   }
+
+.karê {
+     color: dark red;
+    }
+.castelo animado {
+      color: dark red;
+   }
+    p {
+        font-size: 30px
+     }
